@@ -1,6 +1,11 @@
 {
     "name": "sapamatech/whatsapp",
     "description": "PHP Wrapper for Facebook WhatsApp Business API",
+    "autoload": {
+    "psr-4": {
+      "Sapamatech\\Whatsapp\\": "src/"
+    }
+  },
     "authors": [
         {
             "name": "Edwin Mugendi",

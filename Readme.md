@@ -108,7 +108,7 @@ $whatsapp->sendStickerMessage('+1234567890', 'https://example.com/sticker.webp')
 
 ## ℹ️ Requirements
 
-- PHP 7.4 or higher
+- PHP 4.4 or higher
 - WhatsApp Cloud API access
 - Verified Meta Business Account
 - Publicly accessible media URLs
