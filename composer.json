@@ -1,0 +1,19 @@
+{
+    "name": "sapamatech/whatsapp",
+    "description": "PHP Wrapper for Facebook WhatsApp Business API",
+    "authors": [
+        {
+            "name": "Edwin Mugendi",
+            "email": "edwinmugendi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=4.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sapamatech\\Whatsapp\\": "src/"
+        }
+    }
+}
