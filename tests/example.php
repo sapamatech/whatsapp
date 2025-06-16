@@ -6,7 +6,7 @@ use Sapamatech\Whatsapp\WhatsappApi;
 $api = 'template';
 
 $configs = array(
-    'AccessToken' => 'EAFUbRtl6cqoBO6LKGYKNhX4vRd06pVRZAHfGbZBPhcqFNShZAwlP0kyHWaUznLwWZBeTitfe5DRvDpr1G3pK8yF1jW45IBy2wgNz09ixYueXbNVJoInDr7Q7NdHiuzxqZBSCIcSiY0eftkBESl94ABvTxenjjqSABaqS3nQ3FwlRaO4Yg114BimqIyzMbZAqjq9QZDZD',
+    'AccessToken' => 'ACCESSTOKEN',
     'PhoneNumberId' => '745573475296204',
     'Environment' => 'live',
     'Content-Type' => 'application/json',
